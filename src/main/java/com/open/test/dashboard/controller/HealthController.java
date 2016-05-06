@@ -13,7 +13,7 @@ import com.open.test.dashboard.common.Constant;
 import com.open.test.dashboard.common.model.Health;
 import com.open.test.dashboard.service.HealthService;
 
-@RequestMapping("/health/v1")
+@RequestMapping("/health/v2")
 @RestController
 public class HealthController {
 
