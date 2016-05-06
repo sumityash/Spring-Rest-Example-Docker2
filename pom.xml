@@ -5,8 +5,8 @@
 	<artifactId>ClimateDashboard</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
-	<name>ClimateDashboard</name>
-	<description>ClimateDashboard</description>
+	<name>ClimateDashboard2</name>
+	<description>ClimateDashboard2</description>
 	
 	<parent>
 		<groupId>org.springframework.boot</groupId>
